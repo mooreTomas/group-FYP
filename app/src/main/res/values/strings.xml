@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Ber Assist</string>
+    <string name="first_name">First name:</string>
+    <string name="user_type">User type</string>
+    <string name="customer">Customer</string>
+    <string name="assessor">BER Assessor</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email:</string>
+    <string name="prompt_password">Password:</string>
+    <string name="action_sign_in">Login</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be at least 8 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logo_image">logo image</string>
+    <string name="last_name">Last name:</string>
+    <string name="phone">Phone:</string>
+    <string name="already_registered_login">Already registered? Login</string>
+    <string name="not_yet_registered">Not yet Registered? Sign up.</string>
+    <string name="gps_longitude">Owner Property GPS Longitude:</string>
+    <string name="gps_latitude">Owner Property GPS Latitude:</string>
+    <string name="browse_content_button">Browse Content \n</string>
+    <string name="create_home_profile">Create Home Profile</string>
+    <string name="property_age">Property Age:</string>
+    <string name="submit">Submit</string>
+    <string name="attic_insulation">Attic Insulation</string>
+    <string name="floor_insulation">Floor Insulation</string>
+    <string name="heating_type">Heating Type</string>
+    <string name="heating_system_age">Heating System Age</string>
+    <string name="window_glazing_level">Window Glazing Level</string>
+    <string name="click_here">Click Here</string>
+    <string name="wall_insulation">Wall Insulation</string>
+    <string name="property_owner">Property Owner</string>
+    <string name="initiate_ber">initiate ber</string>
+    <string name="notifications">View Notifications</string>
+    <string name="initiate_ber_assessment">Initiate BER Assessment</string>
+    <string name="type">Type</string>
+    <string name="current">Current</string>
+    <string name="upgrade">Suggestion</string>
+    <string name="express_interest">Express Interest</string>
+    <string name="select_assessor">Select assessor</string>
+    <string name="send_assessor">Send to assessor</string>
+    <string name="heating_system">Heating System</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="logout">Logout</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="go_back_to_login_page">Go back to Login Page</string>
+    <string name="Notifications">Notifications</string>
+    <string name="customer_intent_forms">Customer Intent Forms</string>
+    <string-array name="age_array">
+        <item>Built Before 2006</item>
+        <item>Built After 2006</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="heating_array">
+        <item>Gas</item>
+        <item>Oil</item>
+        <item>Electric</item>
+    </string-array>
+    <string-array name="heating_age_array">
+        <item>Less than 1 year</item>
+        <item>2 to 5 years</item>
+        <item>6 to 10 years</item>
+        <item>More than 10 years</item>
+    </string-array>
+    <string-array name="window_array">
+        <item>Single Glazing</item>
+        <item>Double Glazing</item>
+        <item>Triple Glazing</item>
+        <item>Quadruple Glazing</item>
+    </string-array>
+    <string name="title_activity_browse_content">BrowseContent</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
